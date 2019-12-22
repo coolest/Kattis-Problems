@@ -1,7 +1,7 @@
 // https://open.kattis.com/problems/2048
 
 import java.util.Scanner;
-public class _2048 {
+public class kattis_2048 {
 
 	// Global Variables
 	static int[][] numbers = new int[4][4];
