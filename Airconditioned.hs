@@ -23,4 +23,3 @@ main = do
 
 
 -- i need to work on my problem solving skills because this was extremely difficult to me despite the fact that this was relatively simple.
--- please dont remain a dumb fuckhead - you did learn something from this so that is good.
